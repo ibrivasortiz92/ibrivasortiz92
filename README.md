@@ -1,6 +1,6 @@
 ### Hi there, I'm Iram 👋
 
-<img align="right" alt="image" src="img.jpg" width="500" height="320" />
+<img align="right" alt="image" src="img.jpg" width="300" height="300" />
 
 - 🔭 I’m currently working on neutron transport theory
 - 🌱 I’m currently learning web development
