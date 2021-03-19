@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Iram 👋
+
+<img align="right" alt="image" src="https://github.com/ibrivasortiz92/ibrivasortiz92/" width="500" height="320" />
 
 - 🔭 I’m currently working on neutron transport theory
 - 🌱 I’m currently learning web development
