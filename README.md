@@ -4,13 +4,8 @@
 <!-- Skills -->
 <img align="right" alt="image" src="img.jpg" width="100" height="100" style="border-radius: 5px" />
 
-  - C 
-  - MATLAB
-  - Python       
-  - JavaScript
-  - SQL        
-  - HTML          
-  - CSS
+## About
+Currently working on neutron transport problems, especially by solving the discrete ordinates SN transport equations in Cartesian geometry (Reactor Physics, Nuclear Engineering). Research experience on wastewater treatment processes by using ultrasound and gamma radiation. Programming skills in C, Python, SQL, HTML, CSS, JavaScript, and Matlab. Work experience of more than two years as assistant professor guiding undergraduate students from their first steps towards the best possible professional training.
 
 <!--Link Contacts -->
 [<img align="right" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ibrivasortiz92) 
