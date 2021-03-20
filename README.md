@@ -1,12 +1,15 @@
-### Hi there, I'm Iram 👋
+<!-- banner -->
+<img alt="banner" src="banner.jpg" style="border: 5px solid white; border-radius: 5px"/>
 
-<img align="right" alt="image" src="img.jpg" width="300" height="300" />
+<!-- Skills -->
+<img align="right" alt="image" src="img.jpg" width="100" height="100" style="border-radius: 5px" />
 
-- 🔭 I’m currently working on neutron transport theory
-- 🌱 I’m currently learning web development
-- 👯 I’m looking to collaborate on open source
-- 🤔 I’m looking for help with web development
-- 💬 Ask me about deterministic methods
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/iram-b-rivas-ortiz-596019183/)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Always learning ...
+      C          MATLAB        Python       JavaScript
+
+      SQL        HTML          CSS
+
+<!--Link Contacts -->
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ibrivasortiz92)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.https://www.facebook.com/iram.rivasortiz.3/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.https://www.youtube.com/channel/UCxWx0QV0uOJ63UB5vbuul4A)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ibrivasortiz92/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.https://www.linkedin.com/in/iram-b-rivas-ortiz-596019183/)
