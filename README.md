@@ -29,5 +29,5 @@ Currently working on neutron transport problems, especially by solving the discr
 <a href="https://linkedin.com/in/iram-b-rivas-ortiz-596019183" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="iram-b-rivas-ortiz-596019183" height="20" width="30" /></a>
 <a href="https://fb.com/iram.rivasortiz.3" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="iram.rivasortiz.3" height="20" width="30" /></a>
 <a href="https://instagram.com/ibrivasortiz92" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ibrivasortiz92" height="20" width="30" /></a>
-<a href="https://www.youtube.com/c/ucxwx0qv0uoj63ub5vbuul4a" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucxwx0qv0uoj63ub5vbuul4a" height="20" width="30" /></a>
+<a href="https://www.youtube.com/channel/channel/UCxWx0QV0uOJ63UB5vbuul4A" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucxwx0qv0uoj63ub5vbuul4a" height="20" width="30" /></a>
 </p>
