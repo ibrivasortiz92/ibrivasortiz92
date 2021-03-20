@@ -1,5 +1,5 @@
 <!-- banner -->
-<img alt="banner" src="banner.jpg" style="border: 5px solid white; border-radius: 5px"/>
+<img alt="banner" src="banner.jpg" style="border-radius: 5px"/>
 
 <!-- Skills -->
 <img align="right" alt="image" src="img.jpg" width="100" height="100" style="border-radius: 5px" />
