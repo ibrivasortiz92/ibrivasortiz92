@@ -1,11 +1,11 @@
 <!-- banner -->
-<img alt="banner" src="banner.jpg" style="border: 1px solid white; border-radius: 5px"/>
+<img alt="banner" src="banner.jpg" style="border: 1px solid white; border-radius: 5px;"/>
 
 ## About
 Currently working on neutron transport problems, especially by solving the discrete ordinates SN transport equations in Cartesian geometry (Reactor Physics, Nuclear Engineering). Research experience on wastewater treatment processes by using ultrasound and gamma radiation. Work experience of more than two years as assistant professor guiding undergraduate students from their first steps towards the best possible professional training.
 
 <!-- Skills -->
-<img align="right" alt="image" src="img.jpg" width="120" height="120" style="border-radius: 5px" />
+<img align="right" alt="image" src="img.jpg" width="120" height="120" style="border-radius: 5px;"/>
 
 - 🔭 I’m currently working on **a Matlab project**
 
