@@ -25,7 +25,7 @@ Currently working on neutron transport problems, especially by solving the discr
 
 <!--Link Contacts -->
 <p align="right">
-<!--<h3>Connect with me:</h3>-->
+**Connect with me:**
 <a href="https://twitter.com/ibrivas2" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ibrivas2" height="20" width="30" /></a>
 <a href="https://linkedin.com/in/iram-b-rivas-ortiz-596019183" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="iram-b-rivas-ortiz-596019183" height="20" width="30" /></a>
 <a href="https://fb.com/iram.rivasortiz.3" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="iram.rivasortiz.3" height="20" width="30" /></a>
