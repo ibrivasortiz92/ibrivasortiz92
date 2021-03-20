@@ -5,7 +5,7 @@
 Currently working on neutron transport problems, especially by solving the discrete ordinates SN transport equations in Cartesian geometry (Reactor Physics, Nuclear Engineering). Research experience on wastewater treatment processes by using ultrasound and gamma radiation. Work experience of more than two years as assistant professor guiding undergraduate students from their first steps towards the best possible professional training.
 
 <!-- Skills -->
-<img align="right" alt="image" src="img.jpg" width="100" height="100" style="border-radius: 5px" />
+<img align="right" alt="image" src="img.jpg" width="120" height="120" style="border-radius: 5px" />
 
 - 🔭 I’m currently working on **a Matlab project**
 
@@ -25,8 +25,6 @@ Currently working on neutron transport problems, especially by solving the discr
 
 <!--Link Contacts -->
 <p align="right">
-**Connect with me**:
- 
 <a href="https://twitter.com/ibrivas2" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ibrivas2" height="20" width="30" /></a>
 <a href="https://linkedin.com/in/iram-b-rivas-ortiz-596019183" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="iram-b-rivas-ortiz-596019183" height="20" width="30" /></a>
 <a href="https://fb.com/iram.rivasortiz.3" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="iram.rivasortiz.3" height="20" width="30" /></a>
