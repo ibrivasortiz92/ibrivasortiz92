@@ -11,7 +11,7 @@ Currently working on neutron transport problems, especially by solving the discr
 
 - 🌱 I’m currently learning **web development**
 
-- 👯 I’m looking to collaborate on **Matlab, C and Python projects**
+- 👯 I’m looking to collaborate on **web apps and matlab projects**
 
 - 🤝 I’m looking for help with **web development**
 
