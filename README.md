@@ -7,17 +7,15 @@ Programming skills in C, Python, JavaScript, HTML, CSS, SQL, and Matlab. Django,
 <!-- Skills -->
 <img align="right" alt="image" src="img.jpg" width="120" height="120" style="border-radius: 5px;"/>
 
-- 🔭 I’m currently working on **a Matlab project**
+- 🔭 I’m currently working on **a neutron transport simulator web application project**
 
-- 🌱 I’m currently learning **web development**
+- 👯 I’m looking to collaborate on **web applications**
 
-- 👯 I’m looking to collaborate on **web apps and matlab projects**
+- 🤝 I’m looking for help with **the neutron transport simulator project**
 
-- 🤝 I’m looking for help with **web development**
+- 💬 Ask me about **anything you like**
 
-- 💬 Ask me about **Anything you like**
-
-- ⚡ Fun fact **Always smiling and learning**
+- ⚡ Interesting fact **did you know that zero is the only number which can not be represented by Roman numerals?**
 
 <!--Skills-->
 <h3 align="left">Languages and Tools:</h3>
