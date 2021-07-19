@@ -2,7 +2,7 @@
 <img alt="banner" src="banner.jpg" style="border: 1px solid white; border-radius: 5px;"/>
 
 ## About
-Currently working on neutron transport problems, especially by solving the discrete ordinates SN transport equations in Cartesian geometry (Reactor Physics, Nuclear Engineering). Research experience on wastewater treatment processes by using ultrasound and gamma radiation. Work experience of more than two years as assistant professor guiding undergraduate students from their first steps towards the best possible professional training.
+Programming skills in C, Python, JavaScript, HTML, CSS, SQL, and Matlab. Django, React, and Bootstrap framework abilities. Work experience of two years as an assistant professor before starting a Ph.D. in Computational Modeling. Currently, working on neutron transport problems, especially by solving the discrete ordinates SN transport equations in Cartesian geometry (Reactor Physics, Nuclear Engineering).
 
 <!-- Skills -->
 <img align="right" alt="image" src="img.jpg" width="120" height="120" style="border-radius: 5px;"/>
