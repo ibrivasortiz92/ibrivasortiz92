@@ -1,5 +1,5 @@
 <!-- banner -->
-<img alt="banner" src="https://raw.githubusercontent.com/ibrivasortiz92/ibrivasortiz92/b2ff24ada824f367361f864c85de63cd66a76b55/banner.svg" style="border: 1px solid white; border-radius: 5px;"/>
+<img alt="banner" src="https://raw.githubusercontent.com/ibrivasortiz92/ibrivasortiz92/b2ff24ada824f367361f864c85de63cd66a76b55/banner.svg" style="border: 1px solid white; border-radius: 5px; width=100%;"/>
 
 ## About
 Programming skills in C, Python, JavaScript, HTML, CSS, SQL, and Matlab. Django, React, and Bootstrap framework abilities. Work experience of two years as an assistant professor before starting a Ph.D. in Computational Modeling. Currently, working on neutron transport problems, especially by solving the discrete ordinates SN transport equations in Cartesian geometry (Reactor Physics, Nuclear Engineering).
