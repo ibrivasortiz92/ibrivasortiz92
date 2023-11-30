@@ -1,5 +1,5 @@
 <!-- banner -->
-<img alt="banner" src="https://raw.githubusercontent.com/ibrivasortiz92/ibrivasortiz92/b2ff24ada824f367361f864c85de63cd66a76b55/banner.jpeg" style="border: 1px solid white; border-radius: 5px; width: 100%;"/>
+<img alt="banner" src="https://raw.githubusercontent.com/ibrivasortiz92/ibrivasortiz92/main/banner.jpeg" style="border: 1px solid white; border-radius: 5px; width: 100%;"/>
 
 <p align="right">
 <a href="https://www.linkedin.com/in/iram-b-rivas-ortiz-596019183" target="_blank">
